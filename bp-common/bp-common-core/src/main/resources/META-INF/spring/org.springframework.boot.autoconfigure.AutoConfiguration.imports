@@ -1,0 +1,6 @@
+com.bgc.bp.common.core.config.TaskExecutorConfiguration
+com.bgc.bp.common.core.config.JacksonConfiguration
+com.bgc.bp.common.core.config.RedisTemplateConfiguration
+com.bgc.bp.common.core.config.RestTemplateConfiguration
+com.bgc.bp.common.core.util.SpringContextHolder
+com.bgc.bp.common.core.config.WebMvcConfiguration

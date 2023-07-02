@@ -1,0 +1,7 @@
+feign.com.bp.admin.admin.api.RemoteClientDetailsService
+feign.com.bp.admin.admin.api.RemoteDictService
+feign.com.bp.admin.admin.api.RemoteDeptService
+feign.com.bp.admin.admin.api.RemoteLogService
+feign.com.bp.admin.admin.api.RemoteTokenService
+feign.com.bp.admin.admin.api.RemoteUserService
+feign.com.bp.admin.admin.api.RemoteParamService

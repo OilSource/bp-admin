@@ -1,0 +1,7 @@
+service.com.bp.admin.common.security.PigUserDetailsServiceImpl
+service.com.bp.admin.common.security.PigAppUserDetailsServiceImpl
+service.com.bp.admin.common.security.PigRedisOAuth2AuthorizationService
+service.com.bp.admin.common.security.PigRedisOAuth2AuthorizationConsentService
+component.com.bp.admin.common.security.PigSecurityInnerAspect
+component.com.bp.admin.common.security.PigSecurityMessageSourceConfiguration
+service.com.bp.admin.common.security.PigRemoteRegisteredClientRepository

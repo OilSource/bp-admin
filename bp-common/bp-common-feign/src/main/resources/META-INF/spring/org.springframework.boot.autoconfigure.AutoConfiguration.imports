@@ -1,0 +1,4 @@
+com.bgc.bp.common.feign.PigFeignAutoConfiguration
+com.bgc.bp.common.feign.PigFeignRetryAutoConfiguration
+sentinel.com.bp.admin.common.feign.SentinelAutoConfiguration
+handle.sentinel.com.bp.admin.common.feign.GlobalBizExceptionHandler
